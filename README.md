@@ -1,4 +1,4 @@
-<img alt="Coding" style="border-radius:16px;" src="./images/background.gif">
+<img alt="Coding" style="border-radius:16px;" src="./background.gif">
 
 <h1 align="center">Hi 👋, I'm Muhammad Owais</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/owaisrazads](https://github.com/owaisrazads)
 
-- 💬 Ask me about **Html, CSS, Javascript, Firebase**
+- 💬 Ask me about **Html, CSS, Javascript, Reactjs, Firebase**
 
 - 📫 How to reach me **oraza7969@gmail.com**
 
