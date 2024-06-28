@@ -1,4 +1,4 @@
-<img alt="Coding" style="border-radius:16px;" src="./images/background.gif">
+<img alt="Coding" style="border-radius:16px;" src="./background.gif">
 
 <h1 align="center">Hi 👋, I'm Muhammad Owais</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
